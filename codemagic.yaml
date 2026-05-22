@@ -36,7 +36,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - lautic003@gmail.com
+          - joaquin2024@gmail.com
         notify:
           success: true
           failure: true
