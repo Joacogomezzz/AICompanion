@@ -18,6 +18,10 @@
     <string>$(MARKETING_VERSION)</string>
     <key>CFBundleVersion</key>
     <string>$(CURRENT_PROJECT_VERSION)</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>AICompanion necesita el micrófono para escuchar tus comandos de voz.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>AICompanion necesita el reconocimiento de voz para transcribir lo que decís.</string>
     <key>LSRequiresIPhoneOS</key>
     <true/>
     <key>UIApplicationSceneManifest</key>
